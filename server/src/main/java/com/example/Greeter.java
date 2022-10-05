@@ -1,6 +1,6 @@
 package com.example;
 
-import java.lang.math ;
+import java.lang.Math ;
 
 
 public class Greeter { 
